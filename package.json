@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ematrosov/Node.JS#readme",
   "dependencies": {
     "colors": "^1.4.0",
+    "moment": "^2.29.1",
     "promt": "0.0.0"
   }
 }
